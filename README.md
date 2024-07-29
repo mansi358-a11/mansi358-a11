@@ -10,3 +10,6 @@
 🏆 First position in the poem-making competition, Writethon.<br/>
 🥉 Bronze certificate in the International Astronomy and Astrophysics Competition (IAAC).<br/>
 📚 Informally tutored local students in physics for the JEE.<br/>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansi358-a11&show_icons=true&theme=radical)
